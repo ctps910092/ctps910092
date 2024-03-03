@@ -1,4 +1,11 @@
 ### Hi there 👋
+<p align="center">
+  <img src="images/homepage.jpg" width="400">
+  <br>
+  <img src="images/github-user-contribution.svg" width="800">
+</p>
+
+
 
 <!--
 **ctps910092/ctps910092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
