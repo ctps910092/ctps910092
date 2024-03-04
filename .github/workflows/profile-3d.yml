@@ -13,11 +13,12 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20'
+          node-version: '16' # 將 Node.js 版本設置為 16
 
       - uses: actions/checkout@v2
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
