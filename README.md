@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A passionate data scientist from Taiwan</h3>
 <p align="center">
