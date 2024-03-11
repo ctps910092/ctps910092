@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emma</h1>
 <h3 align="center">A passionate data scientist from Taiwan</h3>
 <p align="center">
-  <img src="images/homepage.jpg" width="400">
+  <img src="images/homepage.jpg" width="300">
   <br>
-  <img src="images/github-user-contribution.svg" width="800">
+  <img src="images/github-user-contribution.svg" width="750">
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctps910092&label=Profile%20views&color=0e75b6&style=flat" alt="ctps910092" /> </p>
 
